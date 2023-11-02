@@ -1,0 +1,27 @@
+Vimarsh Patel
+A20513290
+
+
+Hw5
+CS-577 f22
+
+
+Part Programming
+
+Q1)
+
+Notebook Link : https://colab.research.google.com/drive/1lF4nidgFtIBZ9iLQF2ddn4gqWkmHOKkS?usp=share_link
+IMDB Model : https://drive.google.com/drive/folders/1_0U0rQznkQEbHPbJ0yZS4pTnPzWGSEEV?usp=share_link
+IMBD Model with freezed weights: https://drive.google.com/drive/folders/1-kKglK1fjzGvYNHkJKvMzh_2rHD-k9A-?usp=share_link
+IMBD Model with unfreezed weights: https://drive.google.com/drive/folders/105udviiGUTYLKFcsa9FxhxZFWTGZtJqA?usp=share_link
+IMBD Model with LSTM: https://drive.google.com/drive/folders/10eGtroeVOWI0M12ya-v0a0V4GR6oEROi?usp=share_link
+
+Q2)
+
+Notebook link : https://colab.research.google.com/drive/1o6RoQULUeRFSgCXbIqYRYrt2C5PbyYPw?usp=share_link
+
+Model: https://drive.google.com/drive/folders/1-iLBqEgLEbcmTeq_vHlaBag7S_iw2Qnf?usp=share_link
+Model with freeze : https://drive.google.com/drive/folders/1-OaefsAX4y-xzyleGNBsKT-M3uoAIzFR?usp=share_link
+Model with unfreeze : https://drive.google.com/drive/folders/10Yo_Zs_a3sSmn3PtRbJULs9x6UeeN-kq?usp=share_link
+Model with 1 LSTM : https://drive.google.com/drive/folders/118iqOJNeO4xqHDXn0Ea8tkmaKtAMgHYF?usp=share_link
+Model with 2 LSTM : https://drive.google.com/drive/folders/11G2DQr3WJQB1cA9if1o7UWX-it9ADilA?usp=share_link

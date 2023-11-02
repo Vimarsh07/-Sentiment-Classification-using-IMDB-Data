@@ -1,0 +1,19 @@
+Vimarsh Patel
+A20513290
+
+
+Hw5
+CS-577 f22
+
+
+Part Programming
+
+Question 1
+Data Link : Downloaded directly from keras
+https://keras.io/api/datasets/imdb/
+
+Question 2
+
+Data Link : Downloaded directly from keras
+https://keras.io/api/datasets/reuters/
+
